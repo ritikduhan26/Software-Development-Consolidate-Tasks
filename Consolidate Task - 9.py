@@ -6,7 +6,6 @@
 
 import tkinter as tk  
 
- # import tkinter for GUI
 
 # function to count words
 def countword():
@@ -60,3 +59,4 @@ result_label = tk.Label(window, text="")
 result_label.pack(pady=10)
 
 window.mainloop()
+
