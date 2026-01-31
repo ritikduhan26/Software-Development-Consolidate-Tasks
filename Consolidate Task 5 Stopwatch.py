@@ -1,3 +1,5 @@
+#  Consolidate Task 5
+
 # This will help to import the time module from the Python library 
 
 import time   
@@ -33,3 +35,4 @@ print("Total time is", round(timediff, 2), "seconds") # https://docs.python.org/
 # Stop the program 
 
 input("Press Enter to exit")
+
